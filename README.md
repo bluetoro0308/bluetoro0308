@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shai
 ============================================================================================================================
 
-Pythonista, DB mongrel, Web Developer
+Pythonista, DB enthusiast, Web Developer
 -------------------------------------
 
 I've been learning to code for the last 10 years and I'm learning everyday \[continuous process\]
